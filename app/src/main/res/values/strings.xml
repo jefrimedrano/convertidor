@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">currency converter</string>
+    <string name="placeholder">enter the amount to convert</string>
+    <string name="calculate">Calculate</string>
+    <string-array name="Coin">
+        <item>Dollar</item>
+        <item>Euro</item>
+        <item>Peso</item>
+    </string-array>
+
+</resources>
