@@ -22,7 +22,6 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_margin="10dp"
-
             />
 
         <View
@@ -30,7 +29,6 @@
             android:layout_width="match_parent"
             android:layout_height="4dp"
             android:background="?android:attr/listDivider"
-
             />
 
         <EditText
@@ -40,7 +38,7 @@
             android:hint="@string/placeholder"
             android:layout_margin="10dp"
             android:inputType="numberDecimal"
-            android:backgroundTint="@color/button"/>
+            />
 
         <Button
             android:id="@+id/calculate"
